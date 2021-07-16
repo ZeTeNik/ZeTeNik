@@ -19,7 +19,8 @@
 <!--website incoming-->
 [<img align="left" alt="ZeTeNik | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"/>][github]
 
-
+<!-- <details> -->
+[github]: https://github.com/ZeTeNik
 
 <!--
 all images:
