@@ -1,3 +1,34 @@
+<header>
+    <style>
+        /*This hides the default char of details (for chrome)*/
+        details > summary {
+            list-style: none;
+        }
+        /*This hides the default char of details (for firefox)*/
+        details > summary::marker {
+            display: none;
+        }
+        /*allows you to put something after or before*/
+        details[open] > summary:after{
+            content: "";
+        }
+    </style>
+</header>
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+        <samp><br>
+        Why don't you try to improve<br>
+        THE world and not YOUR world
+        </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<details align="center" open>
+<!--if you set your details hidden you can replace it with the line right after-->
+<!--It will add something after your details char-->
+<summary>&#11030;</summary>
+still building it
+
 ### Hi there 👋
 
 <!--
@@ -26,3 +57,22 @@
 all images:
 https://github.com/fluidicon.png
 -->
+</details>
+
+<!--
+
+hiding the <details> default char:
+https://stackoverflow.com/questions/6195329/how-can-you-hide-the-arrow-that-is-displayed-by-default-on-the-html5-details-e
+
+going further with <details>:
+https://blog.teamtreehouse.com/use-details-summary-elements
+
+for the chars:
+https://copypastecharacter.com/all-characters
+
+
+
+-->
+
+
+
