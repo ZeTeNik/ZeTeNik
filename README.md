@@ -1,4 +1,4 @@
-<header>
+<head>
     <style>
         /*This hides the default char of details (for chrome)*/
         details > summary {
@@ -13,7 +13,7 @@
             content: "";
         }
     </style>
-</header>
+</head>
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
         <samp><br>
