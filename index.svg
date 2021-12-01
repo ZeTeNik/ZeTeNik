@@ -17,24 +17,28 @@
                     background: 1b1f25;
                     border-radius: 10px;                    
                 }
+
                 @keyframes mymove {
-                0% {
-                    color: white;
-                }
-                30% {
-                    color: #1b1f25;
-                }
-                60% {
-                    color: #1b1f25;
-                }
-                100% {
-                    color:white;
-                }
+                    0% {
+                        color: white;
+                    }
+                    85% {
+                        color: #1b1f25;
+                    }
+                    89%{
+                        color: white;
+                    }
+                    94%{
+                        color: #1b1f25;
+                    }
+                    98%{
+                        color: white;
+                    }                    
                 }
                 h3{
                     padding: 20px;
                     color: white;
-                    animation: mymove 2s infinite;
+                    animation: mymove 3s infinite;
                 }                
             </style>
             <p align="left"><h3><samp>「</samp></h3></p>
