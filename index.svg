@@ -1,0 +1,54 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                details > summary {
+                list-style: none;
+                }
+                details > summary::marker {
+                    display: none;
+                }
+                details[open] > summary:after{
+                    content: "";
+                }
+                div {
+                    color: white;
+                    /*background: red;*/
+                    background: 1b1f25;
+                    border-radius: 10px;                    
+                }
+                @keyframes mymove {
+                0% {
+                    color: white;
+                }
+                30% {
+                    color: #1b1f25;
+                }
+                60% {
+                    color: #1b1f25;
+                }
+                100% {
+                    color:white;
+                }
+                }
+                h3{
+                    padding: 20px;
+                    color: white;
+                    animation: mymove 2s infinite;
+                }                
+            </style>
+            <p align="left"><h3><samp>「</samp></h3></p>
+            <p align="center">
+                <samp>
+                Why don't you try to improve
+                </samp>
+            </p>
+            <p align="center">
+                <samp>
+                The world and not Your world
+                </samp>
+            </p>
+            <p align="right"><h3><samp>」</samp></h3></p>
+        </div>
+    </foreignObject>
+</svg>
