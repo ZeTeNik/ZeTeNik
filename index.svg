@@ -14,8 +14,9 @@
                 div {
                     color: white;
                     /*background: red;*/
-                    background: 1b1f25;
-                    border-radius: 10px;                    
+                    background: 22272e;
+                    border-radius: 10px;
+                    pointer-events: none                    
                 }
 
                 @keyframes mymove {
@@ -23,13 +24,13 @@
                         color: white;
                     }
                     85% {
-                        color: #1b1f25;
+                        color: #22272e;
                     }
                     89%{
                         color: white;
                     }
                     94%{
-                        color: #1b1f25;
+                        color: #22272e;
                     }
                     98%{
                         color: white;

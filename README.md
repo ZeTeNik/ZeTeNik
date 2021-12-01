@@ -33,7 +33,12 @@
 <!--if you set your details hidden you can replace it with the line right after-->
 <!--It will add something after your details char-->
 <summary>&#11030;</summary>
-still building it
+<p align="center">
+    still building it
+
+    what
+</div>
+
 
 ### Hi there 👋
 
@@ -75,7 +80,4 @@ https://blog.teamtreehouse.com/use-details-summary-elements
 
 for the chars:
 https://copypastecharacter.com/all-characters
-
-
-
 -->
