@@ -27,12 +27,12 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 -->
 <div>
-    <img src="index.svg" align="center" width="900" height="500" alt="css-in-readme">
+   <img src="index.svg" width="1920" height="160" alt="css-in-readme">
 </div>
 <details align="center" open>
 <!--if you set your details hidden you can replace it with the line right after-->
 <!--It will add something after your details char-->
-<summary>&#11030;</summary>
+<summary>&#10148;</summary>
 <p align="center">
     still building it
 
