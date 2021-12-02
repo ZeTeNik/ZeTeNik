@@ -21,13 +21,15 @@
     <p align="center">
         <samp><br>
         Why don't you try to improve<br>
-        THE world and not YOUR world
+        THE world and not only YOUR
         </samp><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 -->
 <div>
-   <img src="index.svg" width="600" height="200" alt="css-in-readme">
+    <p align="center">
+        <img src="index.svg" width="600" height="200" alt="css-in-readme">
+    </p>
 </div>
 <details align="center" open>
 <!--if you set your details hidden you can replace it with the line right after-->
