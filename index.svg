@@ -24,19 +24,19 @@
 
                 @keyframes mymove {
                     0% {
-                        color: white;
+                        color: #777777;
                     }
                     85% {
                         color: #22272e;
                     }
                     89%{
-                        color: white;
+                        color: #777777;
                     }
                     94%{
                         color: #22272e;
                     }
                     98%{
-                        color: white;
+                        color: #777777;
                     }                    
                 }
                 h5 {
@@ -46,12 +46,11 @@
                 }
                 h3{
                     padding: 20px;
-                    color: white;
+                    color: #777777;
                     animation: mymove 3s infinite;
                 }                
             </style>
             <body>
-            <h5 align="center"><samp>use dark theme idfk how to make it work for white and dark theme</samp></h5>
                 <p align="left"><h3><samp>「</samp></h3></p>
                 <p align="center">
                     <samp>
