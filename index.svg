@@ -25,19 +25,19 @@
 
                 @keyframes mymove {
                     0% {
-                        color: #777777;
+                        color: white;
                     }
                     85% {
                         color: #22272e;
                     }
                     89%{
-                        color: #777777;
+                        color: white;
                     }
                     94%{
                         color: #22272e;
                     }
                     98%{
-                        color: #777777;
+                        color: white;
                     }                    
                 }
                 h5 {
@@ -46,7 +46,7 @@
                     color: #22272e
                 }
                 h3{
-                    color: #777777;
+                    color: white;
                     animation: mymove 3s infinite;
                 }                
             </style>
