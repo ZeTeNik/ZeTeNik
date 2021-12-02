@@ -31,14 +31,12 @@
         <img src="index.svg" width="600" height="200" alt="css-in-readme">
     </p>
 </div>
-<details align="center" open>
+<details align="center">
 <!--if you set your details hidden you can replace it with the line right after-->
 <!--It will add something after your details char-->
 <summary>&#10148;</summary>
 <p align="center">
     still building it
-
-    what
 </div>
 
 
