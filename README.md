@@ -27,7 +27,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 -->
 <div>
-   <img src="index.svg" width="1920" height="160" alt="css-in-readme">
+   <img src="index.svg" width="600" height="200" alt="css-in-readme">
 </div>
 <details align="center" open>
 <!--if you set your details hidden you can replace it with the line right after-->
